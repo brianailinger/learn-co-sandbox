@@ -1,4 +1,0 @@
-source "https://rubygems.org"
-
-# Specify your gem's dependencies in wny_food_cli.gemspec
-gemspec
